@@ -24,8 +24,8 @@ This is a React project built with Create React App.
    ```
    
 ## To build the project use command:
-      ```sh
-   yarn build
+       ```sh
+    yarn build
     ```
 
 ## Screenshot of project:
