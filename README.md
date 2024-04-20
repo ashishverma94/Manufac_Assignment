@@ -11,22 +11,22 @@ This is a React project built with Create React App.
 1. Clone this repository to your local machine using:
    ```sh
    git clone https://github.com/ashishverma94/Manufac_Assignment.git
-```
+   ```
 3. Open Manufac_Assignment folder in your vscode
 4. Install dependencies using Yarn:
    ```sh
    yarn install
-```
+   ```
 
 5. To run the development server and view the project in your browser:
       ```sh
    yarn start
-```
+   ```
    
 ## To build the project use command:
       ```sh
    yarn build
-```
+    ```
 
 ## Screenshot of project:
 
