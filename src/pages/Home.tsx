@@ -87,13 +87,13 @@ const Home = () => {
       <div className="container">
         <div className="table">
           <h2>
-            Statistics of <i>Flavonoids </i>in vine
+            Statistics of <i>Flavonoids </i>in wine
           </h2>
           <TableComponent elements={elementsFlav} />
         </div>
         <div className="table">
           <h2>
-            Statistics of <i>Gamma</i> in vine
+            Statistics of <i>Gamma</i> in wine
           </h2>
           <TableComponent elements={elementsGamma} />
         </div>
